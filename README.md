@@ -16,4 +16,4 @@ My Development environments 🧑‍💻
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black) ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 
-![](https://komarev.com/ghpvc/?Rozumek29&color=green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rozumek29)](https://github.com/anuraghazra/github-readme-stats)
