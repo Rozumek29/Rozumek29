@@ -18,4 +18,4 @@ My Development environments 🧑‍💻
 
 ### My Github statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rozumek29&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Rozumek29&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=Rozumek29&rank_icon=github&show_icons=true&include_all_commits=true&theme=shadow_green)
